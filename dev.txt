@@ -1,2 +1,3 @@
 It's new file to understand the brach merging
 For this file is new information
+___________change detected
